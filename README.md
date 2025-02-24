@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-[![gxnie, Welcome to genie github.](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Welcome%20to%20genie%20github.&title=gxnie)](https://pimp-my-readme-next.vercel.app)
+![githubf](https://github.com/user-attachments/assets/84e939ad-561c-40b7-9fc4-a321880f0dd1)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
