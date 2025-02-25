@@ -50,7 +50,6 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   <a href="mailto:wlsdl7520@gmail.com">
     <img
       src="https://img.shields.io/badge/wlsdl7520@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
